@@ -7,11 +7,11 @@ An autonomous, long-endurance solar-powered glider designed for seasonal operati
 ## 🚀 Key Specifications
 
 * **Wingspan:** 3,200 mm 
-* **Target Weight:** ~3250 g (realistic median)
-* **Airfoil:** AG35 (optimized in XFLR5 for $Re \approx 90,000$ and maximum endurance)
+* **Target Weight:** ~3250 g 
+* **Airfoil:** AG35 
 * **Wing Area:** ~70 dm² 
 * **Wing Loading:** 46.5 g/dm² (at 1,500 g) 
-* **Stall Speed:** ~7.6 m/s 
+* **Stall Speed:** ~8.1 m/s 
 * **Control Surfaces:** Elevator + Rudder
 
 ---
